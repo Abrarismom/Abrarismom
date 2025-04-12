@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Abrarismom
-- 👀 I’m interested in ...machine learning,neural network and image processing fields
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+HI there!!
+this is ishmom.. 
+i am an Asp.Net developer and also skilled in python
+i am skilled in vanilla js and postgre,mssql 
 
 <!---
 Abrarismom/Abrarismom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
